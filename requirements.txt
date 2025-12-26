@@ -1,0 +1,24 @@
+langchain
+langchain-openai
+langchain-google-genai
+langchain-community
+langchain-text-splitters
+python-dotenv
+streamlit
+
+# RAG Local
+langchain-chroma
+chromadb
+
+# RAG Cloud
+pypdf
+langchain-postgres
+psycopg[binary]
+
+# ReAct Agent
+ddgs
+
+# LangServe deployment
+fastapi
+uvicorn
+langserve
